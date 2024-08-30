@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## 关于我
+## About Me
 
 Hi, I's S.C. Chen, an electrical engineer for nearly tweenty years.
 
